@@ -1,0 +1,16 @@
+<PAMDataset>
+  <SRS>PROJCS["WGS_1984_Web_Mercator_deprecated",GEOGCS["GCS_WGS_1984_Major_Auxiliary_Sphere",DATUM["Popular_Visualisation_Datum",SPHEROID["WGS_1984_Major_Auxiliary_Sphere",6378137.0,0.0,AUTHORITY["EPSG","7059"]],AUTHORITY["EPSG","6055"]],PRIMEM["Greenwich",0.0,AUTHORITY["EPSG","8901"]],UNIT["Degree",0.0174532925199433,AUTHORITY["EPSG","9102"]],AUTHORITY["EPSG","4055"]],PROJECTION["Mercator_1SP",AUTHORITY["Esri","43004"]],PARAMETER["false_easting",0.0,AUTHORITY["Esri","100001"]],PARAMETER["false_northing",0.0,AUTHORITY["Esri","100002"]],PARAMETER["central_meridian",0.0,AUTHORITY["Esri","100010"]],PARAMETER["latitude_of_origin",0.0,AUTHORITY["Esri","100025"]],UNIT["Meter",1.0,AUTHORITY["EPSG","9001"]]]</SRS>
+  <PAMRasterBand band="1">
+    <Description>dishotel3</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>1478.927001953125</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>4|0|14|14|0|32|0|19|17|15|30|12|21|24|7|29|24|12|44|12|37|17|22|46|22|40|21|43|32|26|21|63|26|43|39|30|46|39|53|36|55|40|48|39|53|49|58|52|37|78|36|64|44|57|82|53|60|52|62|64|64|45|98|53|76|68|44|93|61|80|57|80|70|75|51|96|84|84|78|59|89|68|94|73|82|100|83|74|79|85|88|96|66|98|89|88|96|83|110|96|78|99|86|94|106|73|130|81|112|107|72|134|93|103|97|91|97|106|68|117|93|114|102|68|108|79|120|82|99|114|91|89|95|94|97|117|81|128|79|126|89|90|122|99|111|107|95|101|121|94|128|103|115|120|81|134|90|137|101|121|107|101|106|116|114|106|124|84|129|69|135|111|92|121|79|116|85|97|89|98|80|105|71|72|71|62|59|53|56|44|45|32|38|40|28|34|30|29|23|22|23|25|19|27|16|15|16|13|22|8|19|8|17|10|14|12|11|9|11|11|8|10|7|10|5|11|6|9|9|6|8|6|8|5|8|6|7|5|5|5|4|4|3|4|3|3|3|2|2|2|1|3|0|2|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+  </PAMRasterBand>
+</PAMDataset>
